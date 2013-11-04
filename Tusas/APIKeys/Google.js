@@ -1,0 +1,1 @@
+﻿exports.api_key = function() {return 'AIzaSyAtsDPcU5s5ieIubAN86mzOZq1y8Px9YRY'};

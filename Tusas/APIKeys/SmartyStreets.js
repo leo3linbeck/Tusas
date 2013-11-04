@@ -1,0 +1,1 @@
+﻿exports.auth_id = function() {return '55fa9a4f-8cad-44e0-ae84-7d5088c32831'};exports.auth_token_encoded = function() {return 'c7FtMwXQln6IuP3%2FFnlJdEpHcFvKUccKtvqC6I1O0ydfFuuQx3CecrN%2BZJxGoQkk3IANMBqTm0Ft7zMPFxYTYQ%3D%3D'};
