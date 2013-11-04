@@ -1,1 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><permissions></permissions>
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+	<allow action="read" groupName="_read_Family" groupID="DCC0A3534FED45C6863B80A5D5FB7546" resource="Model.Family" temporaryForcePermissions="false" type="dataClass"/>
+	<allow action="create" groupName="_create_Family" groupID="A37E8D97CB6542CA8685A6D28CCA9BE0" resource="Model.Family" temporaryForcePermissions="false" type="dataClass"/>
+	<allow action="update" groupName="_update_Family" groupID="D48E109985D042ED9323D8DDA3985285" resource="Model.Family" temporaryForcePermissions="false" type="dataClass"/>
+	<allow action="remove" groupName="_delete_Family" groupID="B0CC0839581F4E70A1B947F13C28518D" resource="Model.Family" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>
