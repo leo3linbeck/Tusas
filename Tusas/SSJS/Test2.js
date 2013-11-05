@@ -1,0 +1,1 @@
+﻿ds.Family.all().remove();ds.Person.all().remove();include('SSJS/GenerateMockData.js');L3.generateMockData();ds.Person.all().toArray('fullName, gender, relationship, motherOf.ID, fatherOf.ID');
