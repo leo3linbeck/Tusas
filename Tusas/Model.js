@@ -14,6 +14,20 @@ guidedModel =// @startlock
 	},
 	District :
 	{
+		totalEnrollment :
+		{
+			onGet:function()
+			{// @endlock
+				return this.schools.sum('enrollment');
+			}// @startlock
+		},
+		numberOfSchools :
+		{
+			onGet:function()
+			{// @endlock
+				return this.schools.length;
+			}// @startlock
+		},
 		events :
 		{
 			onSave:function()

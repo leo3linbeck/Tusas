@@ -1,1 +1,1 @@
-﻿ds.Family.all().remove();ds.Person.all().remove();include('SSJS/GenerateMockData.js');L3.generateMockData();ds.Person.all().toArray('fullName, gender, occupation');
+﻿include('SSJS/GenerateMockData.js');L3.generateMockData(true);ds.District.all().toArray('name, category, superintendent, numberOfSchools, totalEnrollment');
