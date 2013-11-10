@@ -1,0 +1,613 @@
+HTTP Server started
+"Tusas" project started
+Executes the bootstrap file(s)
+Bootstrap file(s) executed
+Executes the bootstrap file(s)
+Bootstrap file(s) executed
+"Tusas" solution started
+"Tusas" solution has been successfully opened for running (duration: 626 ms)
+solution opened
+Check bit tables for segment 1 on 1 elements
+Check bit tables for segment 65 on 2 elements
+Checking auto sequence number definitions on 4 elements
+Checking chained list of deleted auto sequence number def initions on 4 elements
+Checking data table definitions on 6 elements
+Error: UUID Conflict between Table:District and Table:District, The UUIDs are the same
+Error: UUID Conflict between Field:District.ID and Field:District.ID, The UUIDs are the same
+Error: UUID Conflict between Field:District.name and Field:District.name, The UUIDs are the same
+Error: UUID Conflict between Field:District.category and Field:District.category, The UUIDs are the same
+Error: UUID Conflict between Field:District.superintendent and Field:District.superintendent, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainStreet1 and Field:District.mainStreet1, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainStreet2 and Field:District.mainStreet2, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainCity and Field:District.mainCity, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainState and Field:District.mainState, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainZipCode and Field:District.mainZipCode, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainUSPSLine1 and Field:District.mainUSPSLine1, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainUSPSLine2 and Field:District.mainUSPSLine2, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainUSPSDeliveryPoint and Field:District.mainUSPSDeliveryPoint, The UUIDs are the same
+Error: UUID Conflict between Field:District.mainMapCoords and Field:District.mainMapCoords, The UUIDs are the same
+Error: UUID Conflict between Table:Family and Table:Family, The UUIDs are the same
+Error: UUID Conflict between Field:Family.ID and Field:Family.ID, The UUIDs are the same
+Error: UUID Conflict between Field:Family.name and Field:Family.name, The UUIDs are the same
+Error: UUID Conflict between Field:Family.userID and Field:Family.userID, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainStreet1 and Field:Family.mainStreet1, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainStreet2 and Field:Family.mainStreet2, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainCity and Field:Family.mainCity, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainState and Field:Family.mainState, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainZipCode and Field:Family.mainZipCode, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainUSPSLine1 and Field:Family.mainUSPSLine1, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainUSPSLine2 and Field:Family.mainUSPSLine2, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainUSPSDeliveryPoint and Field:Family.mainUSPSDeliveryPoint, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mainMapCoords and Field:Family.mainMapCoords, The UUIDs are the same
+Error: UUID Conflict between Field:Family.primaryPhoneType and Field:Family.primaryPhoneType, The UUIDs are the same
+Error: UUID Conflict between Field:Family.primaryPhone and Field:Family.primaryPhone, The UUIDs are the same
+Error: UUID Conflict between Field:Family.secondaryPhoneType and Field:Family.secondaryPhoneType, The UUIDs are the same
+Error: UUID Conflict between Field:Family.secondaryPhone and Field:Family.secondaryPhone, The UUIDs are the same
+Error: UUID Conflict between Field:Family.federalPovertyLevelStatus and Field:Family.federalPovertyLevelStatus, The UUIDs are the same
+Error: UUID Conflict between Field:Family.searchDistance and Field:Family.searchDistance, The UUIDs are the same
+Error: UUID Conflict between Field:Family.applier and Field:Family.applier, The UUIDs are the same
+Error: UUID Conflict between Field:Family.motherMaritalStatus and Field:Family.motherMaritalStatus, The UUIDs are the same
+Error: UUID Conflict between Field:Family.fatherMaritalStatus and Field:Family.fatherMaritalStatus, The UUIDs are the same
+Error: UUID Conflict between Field:Family.motherRace and Field:Family.motherRace, The UUIDs are the same
+Error: UUID Conflict between Field:Family.fatherRace and Field:Family.fatherRace, The UUIDs are the same
+Error: UUID Conflict between Field:Family.childCustody and Field:Family.childCustody, The UUIDs are the same
+Error: UUID Conflict between Field:Family.nativeLanguage and Field:Family.nativeLanguage, The UUIDs are the same
+Error: UUID Conflict between Field:Family.languageSpokenAtHome and Field:Family.languageSpokenAtHome, The UUIDs are the same
+Error: UUID Conflict between Field:Family.guardianRelationship and Field:Family.guardianRelationship, The UUIDs are the same
+Error: UUID Conflict between Field:Family.father and Field:Family.father, The UUIDs are the same
+Error: UUID Conflict between Field:Family.mother and Field:Family.mother, The UUIDs are the same
+Error: UUID Conflict between Field:Family.guardian and Field:Family.guardian, The UUIDs are the same
+Error: UUID Conflict between Table:Person and Table:Person, The UUIDs are the same
+Error: UUID Conflict between Field:Person.ID and Field:Person.ID, The UUIDs are the same
+Error: UUID Conflict between Field:Person.childOf and Field:Person.childOf, The UUIDs are the same
+Error: UUID Conflict between Field:Person.firstName and Field:Person.firstName, The UUIDs are the same
+Error: UUID Conflict between Field:Person.middleName and Field:Person.middleName, The UUIDs are the same
+Error: UUID Conflict between Field:Person.lastName and Field:Person.lastName, The UUIDs are the same
+Error: UUID Conflict between Field:Person.suffix and Field:Person.suffix, The UUIDs are the same
+Error: UUID Conflict between Field:Person.nickname and Field:Person.nickname, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeAddressSameAsMain and Field:Person.homeAddressSameAsMain, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeStreet1 and Field:Person.homeStreet1, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeStreet2 and Field:Person.homeStreet2, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeCity and Field:Person.homeCity, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeState and Field:Person.homeState, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeZipCode and Field:Person.homeZipCode, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeUSPSLine1 and Field:Person.homeUSPSLine1, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeUSPSLine2 and Field:Person.homeUSPSLine2, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeUSPSDeliveryPoint and Field:Person.homeUSPSDeliveryPoint, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeMapCoords and Field:Person.homeMapCoords, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workStreet1 and Field:Person.workStreet1, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workStreet2 and Field:Person.workStreet2, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workCity and Field:Person.workCity, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workState and Field:Person.workState, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workZipCode and Field:Person.workZipCode, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workUSPSLine1 and Field:Person.workUSPSLine1, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workUSPSLine2 and Field:Person.workUSPSLine2, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workUSPSDeliveryPoint and Field:Person.workUSPSDeliveryPoint, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workMapCoords and Field:Person.workMapCoords, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homePhone and Field:Person.homePhone, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workPhone and Field:Person.workPhone, The UUIDs are the same
+Error: UUID Conflict between Field:Person.cellPhone and Field:Person.cellPhone, The UUIDs are the same
+Error: UUID Conflict between Field:Person.homeEmail and Field:Person.homeEmail, The UUIDs are the same
+Error: UUID Conflict between Field:Person.workEmail and Field:Person.workEmail, The UUIDs are the same
+Error: UUID Conflict between Field:Person.employer and Field:Person.employer, The UUIDs are the same
+Error: UUID Conflict between Field:Person.occupation and Field:Person.occupation, The UUIDs are the same
+Error: UUID Conflict between Field:Person.relationship and Field:Person.relationship, The UUIDs are the same
+Error: UUID Conflict between Field:Person.gender and Field:Person.gender, The UUIDs are the same
+Error: UUID Conflict between Field:Person.race and Field:Person.race, The UUIDs are the same
+Error: UUID Conflict between Field:Person.birthdate and Field:Person.birthdate, The UUIDs are the same
+Error: UUID Conflict between Field:Person.isMultiple and Field:Person.isMultiple, The UUIDs are the same
+Error: UUID Conflict between Field:Person.livesWith and Field:Person.livesWith, The UUIDs are the same
+Error: UUID Conflict between Field:Person.nextGradeLevel and Field:Person.nextGradeLevel, The UUIDs are the same
+Error: UUID Conflict between Field:Person.isApplying and Field:Person.isApplying, The UUIDs are the same
+Error: UUID Conflict between Field:Person.enrolledAt and Field:Person.enrolledAt, The UUIDs are the same
+Error: UUID Conflict between Table:School and Table:School, The UUIDs are the same
+Error: UUID Conflict between Field:School.ID and Field:School.ID, The UUIDs are the same
+Error: UUID Conflict between Field:School.name and Field:School.name, The UUIDs are the same
+Error: UUID Conflict between Field:School.category and Field:School.category, The UUIDs are the same
+Error: UUID Conflict between Field:School.url and Field:School.url, The UUIDs are the same
+Error: UUID Conflict between Field:School.principal and Field:School.principal, The UUIDs are the same
+Error: UUID Conflict between Field:School.startingGrade and Field:School.startingGrade, The UUIDs are the same
+Error: UUID Conflict between Field:School.endingGrade and Field:School.endingGrade, The UUIDs are the same
+Error: UUID Conflict between Field:School.enrollment and Field:School.enrollment, The UUIDs are the same
+Error: UUID Conflict between Field:School.rating and Field:School.rating, The UUIDs are the same
+Error: UUID Conflict between Field:School.attendanceRate and Field:School.attendanceRate, The UUIDs are the same
+Error: UUID Conflict between Field:School.graduationRate and Field:School.graduationRate, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainStreet1 and Field:School.mainStreet1, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainStreet2 and Field:School.mainStreet2, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainCity and Field:School.mainCity, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainState and Field:School.mainState, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainZipCode and Field:School.mainZipCode, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainUSPSLine1 and Field:School.mainUSPSLine1, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainUSPSLine2 and Field:School.mainUSPSLine2, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainUSPSDeliveryPoint and Field:School.mainUSPSDeliveryPoint, The UUIDs are the same
+Error: UUID Conflict between Field:School.mainMapCoords and Field:School.mainMapCoords, The UUIDs are the same
+Error: UUID Conflict between Field:School.primaryPhone and Field:School.primaryPhone, The UUIDs are the same
+Error: UUID Conflict between Field:School.primaryEmailAddress and Field:School.primaryEmailAddress, The UUIDs are the same
+Error: UUID Conflict between Field:School.secondaryPhone and Field:School.secondaryPhone, The UUIDs are the same
+Error: UUID Conflict between Field:School.secondaryEmailAddress and Field:School.secondaryEmailAddress, The UUIDs are the same
+Error: UUID Conflict between Field:School.district and Field:School.district, The UUIDs are the same
+Error: UUID Conflict between Table:SchoolApplication and Table:SchoolApplication, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.ID and Field:SchoolApplication.ID, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.applicant and Field:SchoolApplication.applicant, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.submittedTo and Field:SchoolApplication.submittedTo, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.url and Field:SchoolApplication.url, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.preparedOn and Field:SchoolApplication.preparedOn, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.submittedOn and Field:SchoolApplication.submittedOn, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolApplication.forSchoolYear and Field:SchoolApplication.forSchoolYear, The UUIDs are the same
+Error: UUID Conflict between Table:SchoolOption and Table:SchoolOption, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolOption.ID and Field:SchoolOption.ID, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolOption.family and Field:SchoolOption.family, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolOption.school and Field:SchoolOption.school, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolOption.distance and Field:SchoolOption.distance, The UUIDs are the same
+Error: UUID Conflict between Field:SchoolOption.selected and Field:SchoolOption.selected, The UUIDs are the same
+Checking chained list of deleted table definitions on 6 elements
+Checking index definitions on 118 elements
+Checking chained list of deleted index definitions on 118 elements
+Load data tables on 0 elements
+Checking data table headers on 6 elements
+Checking chained list of deleted data table headers on 6 elements
+Checking BLOBs in table District on 0 elements
+Checking list of deleted BLOBs in table District on 0 elements
+Checking records in table District on 20 elements
+Checking list of deleted records in table District on 0 elements
+Checking BLOBs in table Family on 0 elements
+Checking list of deleted BLOBs in table Family on 0 elements
+Checking records in table Family on 100 elements
+Checking list of deleted records in table Family on 0 elements
+Checking BLOBs in table Person on 0 elements
+Checking list of deleted BLOBs in table Person on 0 elements
+Checking records in table Person on 402 elements
+Checking list of deleted records in table Person on 0 elements
+Checking BLOBs in table School on 0 elements
+Checking list of deleted BLOBs in table School on 0 elements
+Checking records in table School on 1326 elements
+Checking list of deleted records in table School on 0 elements
+Checking BLOBs in table SchoolApplication on 0 elements
+Checking list of deleted BLOBs in table SchoolApplication on 0 elements
+Checking records in table SchoolApplication on 0 elements
+Checking list of deleted records in table SchoolApplication on 0 elements
+Checking BLOBs in table SchoolOption on 0 elements
+Checking list of deleted BLOBs in table SchoolOption on 0 elements
+Checking records in table SchoolOption on 0 elements
+Checking list of deleted records in table SchoolOption on 0 elements
+Checking index B-tree Index 0 on District.ID on 0 elements
+Checking index page addresses on B-tree Index 0 on District.ID on 1 elements
+Checking index pages on B-tree Index 0 on District.ID on 1 elements
+Checking index B-tree Index 1 on District.name on 0 elements
+Checking index page addresses on B-tree Index 1 on District.name on 1 elements
+Checking index pages on B-tree Index 1 on District.name on 1 elements
+Checking index Cluster Index 2 on District.category on 0 elements
+Checking index page addresses on Cluster Index 2 on District.category on 1 elements
+Checking clusters on Cluster Index 2 on District.category on 2 elements
+Checking list of deleted clusters on Cluster Index 2 on District.category on 2 elements
+Checking index pages on Cluster Index 2 on District.category on 1 elements
+Checking index B-tree Index 3 on District.superintendent on 0 elements
+Checking index page addresses on B-tree Index 3 on District.superintendent on 1 elements
+Checking index pages on B-tree Index 3 on District.superintendent on 1 elements
+Checking index B-tree Index 4 on District.mainStreet1 on 0 elements
+Checking index page addresses on B-tree Index 4 on District.mainStreet1 on 1 elements
+Checking index pages on B-tree Index 4 on District.mainStreet1 on 1 elements
+Checking index B-tree Index 5 on District.mainStreet2 on 0 elements
+Checking index page addresses on B-tree Index 5 on District.mainStreet2 on 0 elements
+Checking index pages on B-tree Index 5 on District.mainStreet2 on 0 elements
+Checking index Cluster Index 6 on District.mainCity on 0 elements
+Checking index page addresses on Cluster Index 6 on District.mainCity on 1 elements
+Checking clusters on Cluster Index 6 on District.mainCity on 0 elements
+Checking list of deleted clusters on Cluster Index 6 on District.mainCity on 0 elements
+Checking index pages on Cluster Index 6 on District.mainCity on 1 elements
+Checking index Cluster Index 7 on District.mainState on 0 elements
+Checking index page addresses on Cluster Index 7 on District.mainState on 1 elements
+Checking clusters on Cluster Index 7 on District.mainState on 1 elements
+Checking list of deleted clusters on Cluster Index 7 on District.mainState on 1 elements
+Checking index pages on Cluster Index 7 on District.mainState on 1 elements
+Checking index B-tree Index 8 on District.mainZipCode on 0 elements
+Checking index page addresses on B-tree Index 8 on District.mainZipCode on 1 elements
+Checking index pages on B-tree Index 8 on District.mainZipCode on 1 elements
+Checking index B-tree Index 9 on District.mainUSPSLine1 on 0 elements
+Checking index page addresses on B-tree Index 9 on District.mainUSPSLine1 on 0 elements
+Checking index pages on B-tree Index 9 on District.mainUSPSLine1 on 0 elements
+Checking index B-tree Index 10 on District.mainUSPSLine2 on 0 elements
+Checking index page addresses on B-tree Index 10 on District.mainUSPSLine2 on 0 elements
+Checking index pages on B-tree Index 10 on District.mainUSPSLine2 on 0 elements
+Checking index B-tree Index 11 on District.mainUSPSDeliveryPoint on 0 elements
+Checking index page addresses on B-tree Index 11 on District.mainUSPSDeliveryPoint on 0 elements
+Checking index pages on B-tree Index 11 on District.mainUSPSDeliveryPoint on 0 elements
+Checking index B-tree Index 12 on District.mainMapCoords on 0 elements
+Checking index page addresses on B-tree Index 12 on District.mainMapCoords on 0 elements
+Checking index pages on B-tree Index 12 on District.mainMapCoords on 0 elements
+Checking index B-tree Index 13 on Family.ID on 0 elements
+Checking index page addresses on B-tree Index 13 on Family.ID on 1 elements
+Checking index pages on B-tree Index 13 on Family.ID on 1 elements
+Checking index B-tree Index 14 on Family.name on 0 elements
+Checking index page addresses on B-tree Index 14 on Family.name on 1 elements
+Checking index pages on B-tree Index 14 on Family.name on 1 elements
+Checking index B-tree Index 15 on Family.userID on 0 elements
+Checking index page addresses on B-tree Index 15 on Family.userID on 0 elements
+Checking index pages on B-tree Index 15 on Family.userID on 0 elements
+Checking index B-tree Index 16 on Family.mainStreet1 on 0 elements
+Checking index page addresses on B-tree Index 16 on Family.mainStreet1 on 1 elements
+Checking index pages on B-tree Index 16 on Family.mainStreet1 on 1 elements
+Checking index B-tree Index 17 on Family.mainStreet2 on 0 elements
+Checking index page addresses on B-tree Index 17 on Family.mainStreet2 on 0 elements
+Checking index pages on B-tree Index 17 on Family.mainStreet2 on 0 elements
+Checking index Cluster Index 18 on Family.mainCity on 0 elements
+Checking index page addresses on Cluster Index 18 on Family.mainCity on 1 elements
+Checking clusters on Cluster Index 18 on Family.mainCity on 0 elements
+Checking list of deleted clusters on Cluster Index 18 on Family.mainCity on 0 elements
+Checking index pages on Cluster Index 18 on Family.mainCity on 1 elements
+Checking index Cluster Index 19 on Family.mainState on 0 elements
+Checking index page addresses on Cluster Index 19 on Family.mainState on 1 elements
+Checking clusters on Cluster Index 19 on Family.mainState on 30 elements
+Checking list of deleted clusters on Cluster Index 19 on Family.mainState on 30 elements
+Checking index pages on Cluster Index 19 on Family.mainState on 1 elements
+Checking index B-tree Index 20 on Family.mainZipCode on 0 elements
+Checking index page addresses on B-tree Index 20 on Family.mainZipCode on 1 elements
+Checking index pages on B-tree Index 20 on Family.mainZipCode on 1 elements
+Checking index B-tree Index 21 on Family.mainUSPSLine1 on 0 elements
+Checking index page addresses on B-tree Index 21 on Family.mainUSPSLine1 on 0 elements
+Checking index pages on B-tree Index 21 on Family.mainUSPSLine1 on 0 elements
+Checking index B-tree Index 22 on Family.mainUSPSLine2 on 0 elements
+Checking index page addresses on B-tree Index 22 on Family.mainUSPSLine2 on 0 elements
+Checking index pages on B-tree Index 22 on Family.mainUSPSLine2 on 0 elements
+Checking index B-tree Index 23 on Family.mainUSPSDeliveryPoint on 0 elements
+Checking index page addresses on B-tree Index 23 on Family.mainUSPSDeliveryPoint on 0 elements
+Checking index pages on B-tree Index 23 on Family.mainUSPSDeliveryPoint on 0 elements
+Checking index B-tree Index 24 on Family.mainMapCoords on 0 elements
+Checking index page addresses on B-tree Index 24 on Family.mainMapCoords on 0 elements
+Checking index pages on B-tree Index 24 on Family.mainMapCoords on 0 elements
+Checking index Cluster Index 25 on Family.primaryPhoneType on 0 elements
+Checking index page addresses on Cluster Index 25 on Family.primaryPhoneType on 0 elements
+Checking clusters on Cluster Index 25 on Family.primaryPhoneType on 0 elements
+Checking list of deleted clusters on Cluster Index 25 on Family.primaryPhoneType on 0 elements
+Checking index pages on Cluster Index 25 on Family.primaryPhoneType on 0 elements
+Checking index B-tree Index 26 on Family.primaryPhone on 0 elements
+Checking index page addresses on B-tree Index 26 on Family.primaryPhone on 1 elements
+Checking index pages on B-tree Index 26 on Family.primaryPhone on 1 elements
+Checking index Cluster Index 27 on Family.secondaryPhoneType on 0 elements
+Checking index page addresses on Cluster Index 27 on Family.secondaryPhoneType on 0 elements
+Checking clusters on Cluster Index 27 on Family.secondaryPhoneType on 0 elements
+Checking list of deleted clusters on Cluster Index 27 on Family.secondaryPhoneType on 0 elements
+Checking index pages on Cluster Index 27 on Family.secondaryPhoneType on 0 elements
+Checking index B-tree Index 28 on Family.secondaryPhone on 0 elements
+Checking index page addresses on B-tree Index 28 on Family.secondaryPhone on 1 elements
+Checking index pages on B-tree Index 28 on Family.secondaryPhone on 1 elements
+Checking index Cluster Index 29 on Family.federalPovertyLevelStatus on 0 elements
+Checking index page addresses on Cluster Index 29 on Family.federalPovertyLevelStatus on 1 elements
+Checking clusters on Cluster Index 29 on Family.federalPovertyLevelStatus on 3 elements
+Checking list of deleted clusters on Cluster Index 29 on Family.federalPovertyLevelStatus on 3 elements
+Checking index pages on Cluster Index 29 on Family.federalPovertyLevelStatus on 1 elements
+Checking index B-tree Index 30 on Family.applier on 0 elements
+Checking index page addresses on B-tree Index 30 on Family.applier on 1 elements
+Checking index pages on B-tree Index 30 on Family.applier on 1 elements
+Checking index Cluster Index 31 on Family.motherMaritalStatus on 0 elements
+Checking index page addresses on Cluster Index 31 on Family.motherMaritalStatus on 1 elements
+Checking clusters on Cluster Index 31 on Family.motherMaritalStatus on 3 elements
+Checking list of deleted clusters on Cluster Index 31 on Family.motherMaritalStatus on 3 elements
+Checking index pages on Cluster Index 31 on Family.motherMaritalStatus on 1 elements
+Checking index Cluster Index 32 on Family.fatherMaritalStatus on 0 elements
+Checking index page addresses on Cluster Index 32 on Family.fatherMaritalStatus on 1 elements
+Checking clusters on Cluster Index 32 on Family.fatherMaritalStatus on 3 elements
+Checking list of deleted clusters on Cluster Index 32 on Family.fatherMaritalStatus on 3 elements
+Checking index pages on Cluster Index 32 on Family.fatherMaritalStatus on 1 elements
+Checking index Cluster Index 33 on Family.motherRace on 0 elements
+Checking index page addresses on Cluster Index 33 on Family.motherRace on 1 elements
+Checking clusters on Cluster Index 33 on Family.motherRace on 3 elements
+Checking list of deleted clusters on Cluster Index 33 on Family.motherRace on 3 elements
+Checking index pages on Cluster Index 33 on Family.motherRace on 1 elements
+Checking index Cluster Index 34 on Family.fatherRace on 0 elements
+Checking index page addresses on Cluster Index 34 on Family.fatherRace on 1 elements
+Checking clusters on Cluster Index 34 on Family.fatherRace on 3 elements
+Checking list of deleted clusters on Cluster Index 34 on Family.fatherRace on 3 elements
+Checking index pages on Cluster Index 34 on Family.fatherRace on 1 elements
+Checking index Cluster Index 35 on Family.childCustody on 0 elements
+Checking index page addresses on Cluster Index 35 on Family.childCustody on 1 elements
+Checking clusters on Cluster Index 35 on Family.childCustody on 3 elements
+Checking list of deleted clusters on Cluster Index 35 on Family.childCustody on 3 elements
+Checking index pages on Cluster Index 35 on Family.childCustody on 1 elements
+Checking index Cluster Index 36 on Family.nativeLanguage on 0 elements
+Checking index page addresses on Cluster Index 36 on Family.nativeLanguage on 1 elements
+Checking clusters on Cluster Index 36 on Family.nativeLanguage on 2 elements
+Checking list of deleted clusters on Cluster Index 36 on Family.nativeLanguage on 2 elements
+Checking index pages on Cluster Index 36 on Family.nativeLanguage on 1 elements
+Checking index Cluster Index 37 on Family.languageSpokenAtHome on 0 elements
+Checking index page addresses on Cluster Index 37 on Family.languageSpokenAtHome on 1 elements
+Checking clusters on Cluster Index 37 on Family.languageSpokenAtHome on 1 elements
+Checking list of deleted clusters on Cluster Index 37 on Family.languageSpokenAtHome on 1 elements
+Checking index pages on Cluster Index 37 on Family.languageSpokenAtHome on 1 elements
+Checking index Cluster Index 38 on Family.guardianRelationship on 0 elements
+Checking index page addresses on Cluster Index 38 on Family.guardianRelationship on 0 elements
+Checking clusters on Cluster Index 38 on Family.guardianRelationship on 0 elements
+Checking list of deleted clusters on Cluster Index 38 on Family.guardianRelationship on 0 elements
+Checking index pages on Cluster Index 38 on Family.guardianRelationship on 0 elements
+Checking index Cluster Index 39 on Family.father on 0 elements
+Checking index page addresses on Cluster Index 39 on Family.father on 1 elements
+Checking clusters on Cluster Index 39 on Family.father on 0 elements
+Checking list of deleted clusters on Cluster Index 39 on Family.father on 0 elements
+Checking index pages on Cluster Index 39 on Family.father on 1 elements
+Checking index Cluster Index 40 on Family.mother on 0 elements
+Checking index page addresses on Cluster Index 40 on Family.mother on 1 elements
+Checking clusters on Cluster Index 40 on Family.mother on 0 elements
+Checking list of deleted clusters on Cluster Index 40 on Family.mother on 0 elements
+Checking index pages on Cluster Index 40 on Family.mother on 1 elements
+Checking index Cluster Index 41 on Family.guardian on 0 elements
+Checking index page addresses on Cluster Index 41 on Family.guardian on 0 elements
+Checking clusters on Cluster Index 41 on Family.guardian on 0 elements
+Checking list of deleted clusters on Cluster Index 41 on Family.guardian on 0 elements
+Checking index pages on Cluster Index 41 on Family.guardian on 0 elements
+Checking index B-tree Index 42 on Person.ID on 0 elements
+Checking index page addresses on B-tree Index 42 on Person.ID on 3 elements
+Checking index pages on B-tree Index 42 on Person.ID on 3 elements
+Checking index Cluster Index 43 on Person.childOf on 0 elements
+Checking index page addresses on Cluster Index 43 on Person.childOf on 1 elements
+Checking clusters on Cluster Index 43 on Person.childOf on 73 elements
+Checking list of deleted clusters on Cluster Index 43 on Person.childOf on 73 elements
+Checking index pages on Cluster Index 43 on Person.childOf on 1 elements
+Checking index B-tree Index 44 on Person.firstName on 0 elements
+Checking index page addresses on B-tree Index 44 on Person.firstName on 5 elements
+Checking index pages on B-tree Index 44 on Person.firstName on 5 elements
+Checking index B-tree Index 45 on Person.middleName on 0 elements
+Checking index page addresses on B-tree Index 45 on Person.middleName on 5 elements
+Checking index pages on B-tree Index 45 on Person.middleName on 5 elements
+Checking index B-tree Index 46 on Person.lastName on 0 elements
+Checking index page addresses on B-tree Index 46 on Person.lastName on 5 elements
+Checking index pages on B-tree Index 46 on Person.lastName on 5 elements
+Checking index B-tree Index 47 on Person.nickname on 0 elements
+Checking index page addresses on B-tree Index 47 on Person.nickname on 5 elements
+Checking index pages on B-tree Index 47 on Person.nickname on 5 elements
+Checking index B-tree Index 48 on Person.homeStreet1 on 0 elements
+Checking index page addresses on B-tree Index 48 on Person.homeStreet1 on 5 elements
+Checking index pages on B-tree Index 48 on Person.homeStreet1 on 5 elements
+Checking index B-tree Index 49 on Person.homeStreet2 on 0 elements
+Checking index page addresses on B-tree Index 49 on Person.homeStreet2 on 0 elements
+Checking index pages on B-tree Index 49 on Person.homeStreet2 on 0 elements
+Checking index Cluster Index 50 on Person.homeCity on 0 elements
+Checking index page addresses on Cluster Index 50 on Person.homeCity on 3 elements
+Checking clusters on Cluster Index 50 on Person.homeCity on 98 elements
+Checking list of deleted clusters on Cluster Index 50 on Person.homeCity on 98 elements
+Checking index pages on Cluster Index 50 on Person.homeCity on 3 elements
+Checking index Cluster Index 51 on Person.homeState on 0 elements
+Checking index page addresses on Cluster Index 51 on Person.homeState on 1 elements
+Checking clusters on Cluster Index 51 on Person.homeState on 57 elements
+Checking list of deleted clusters on Cluster Index 51 on Person.homeState on 57 elements
+Checking index pages on Cluster Index 51 on Person.homeState on 1 elements
+Checking index B-tree Index 52 on Person.homeZipCode on 0 elements
+Checking index page addresses on B-tree Index 52 on Person.homeZipCode on 5 elements
+Checking index pages on B-tree Index 52 on Person.homeZipCode on 5 elements
+Checking index B-tree Index 53 on Person.homeUSPSLine1 on 0 elements
+Checking index page addresses on B-tree Index 53 on Person.homeUSPSLine1 on 0 elements
+Checking index pages on B-tree Index 53 on Person.homeUSPSLine1 on 0 elements
+Checking index B-tree Index 54 on Person.homeUSPSLine2 on 0 elements
+Checking index page addresses on B-tree Index 54 on Person.homeUSPSLine2 on 0 elements
+Checking index pages on B-tree Index 54 on Person.homeUSPSLine2 on 0 elements
+Checking index B-tree Index 55 on Person.homeUSPSDeliveryPoint on 0 elements
+Checking index page addresses on B-tree Index 55 on Person.homeUSPSDeliveryPoint on 0 elements
+Checking index pages on B-tree Index 55 on Person.homeUSPSDeliveryPoint on 0 elements
+Checking index B-tree Index 56 on Person.homeMapCoords on 0 elements
+Checking index page addresses on B-tree Index 56 on Person.homeMapCoords on 0 elements
+Checking index pages on B-tree Index 56 on Person.homeMapCoords on 0 elements
+Checking index B-tree Index 57 on Person.workStreet1 on 0 elements
+Checking index page addresses on B-tree Index 57 on Person.workStreet1 on 3 elements
+Checking index pages on B-tree Index 57 on Person.workStreet1 on 3 elements
+Checking index B-tree Index 58 on Person.workStreet2 on 0 elements
+Checking index page addresses on B-tree Index 58 on Person.workStreet2 on 3 elements
+Checking index pages on B-tree Index 58 on Person.workStreet2 on 3 elements
+Checking index Cluster Index 59 on Person.workCity on 0 elements
+Checking index page addresses on Cluster Index 59 on Person.workCity on 3 elements
+Checking clusters on Cluster Index 59 on Person.workCity on 0 elements
+Checking list of deleted clusters on Cluster Index 59 on Person.workCity on 0 elements
+Checking index pages on Cluster Index 59 on Person.workCity on 3 elements
+Checking index Cluster Index 60 on Person.workState on 0 elements
+Checking index page addresses on Cluster Index 60 on Person.workState on 1 elements
+Checking clusters on Cluster Index 60 on Person.workState on 46 elements
+Checking list of deleted clusters on Cluster Index 60 on Person.workState on 46 elements
+Checking index pages on Cluster Index 60 on Person.workState on 1 elements
+Checking index B-tree Index 61 on Person.workZipCode on 0 elements
+Checking index page addresses on B-tree Index 61 on Person.workZipCode on 3 elements
+Checking index pages on B-tree Index 61 on Person.workZipCode on 3 elements
+Checking index B-tree Index 62 on Person.workUSPSLine1 on 0 elements
+Checking index page addresses on B-tree Index 62 on Person.workUSPSLine1 on 0 elements
+Checking index pages on B-tree Index 62 on Person.workUSPSLine1 on 0 elements
+Checking index B-tree Index 63 on Person.workUSPSLine2 on 0 elements
+Checking index page addresses on B-tree Index 63 on Person.workUSPSLine2 on 0 elements
+Checking index pages on B-tree Index 63 on Person.workUSPSLine2 on 0 elements
+Checking index B-tree Index 64 on Person.workUSPSDeliveryPoint on 0 elements
+Checking index page addresses on B-tree Index 64 on Person.workUSPSDeliveryPoint on 0 elements
+Checking index pages on B-tree Index 64 on Person.workUSPSDeliveryPoint on 0 elements
+Checking index B-tree Index 65 on Person.workMapCoords on 0 elements
+Checking index page addresses on B-tree Index 65 on Person.workMapCoords on 0 elements
+Checking index pages on B-tree Index 65 on Person.workMapCoords on 0 elements
+Checking index B-tree Index 66 on Person.homePhone on 0 elements
+Checking index page addresses on B-tree Index 66 on Person.homePhone on 3 elements
+Checking index pages on B-tree Index 66 on Person.homePhone on 3 elements
+Checking index B-tree Index 67 on Person.workPhone on 0 elements
+Checking index page addresses on B-tree Index 67 on Person.workPhone on 3 elements
+Checking index pages on B-tree Index 67 on Person.workPhone on 3 elements
+Checking index B-tree Index 68 on Person.cellPhone on 0 elements
+Checking index page addresses on B-tree Index 68 on Person.cellPhone on 5 elements
+Checking index pages on B-tree Index 68 on Person.cellPhone on 5 elements
+Checking index B-tree Index 69 on Person.homeEmail on 0 elements
+Checking index page addresses on B-tree Index 69 on Person.homeEmail on 5 elements
+Checking index pages on B-tree Index 69 on Person.homeEmail on 5 elements
+Checking index B-tree Index 70 on Person.workEmail on 0 elements
+Checking index page addresses on B-tree Index 70 on Person.workEmail on 3 elements
+Checking index pages on B-tree Index 70 on Person.workEmail on 3 elements
+Checking index B-tree Index 71 on Person.employer on 0 elements
+Checking index page addresses on B-tree Index 71 on Person.employer on 0 elements
+Checking index pages on B-tree Index 71 on Person.employer on 0 elements
+Checking index B-tree Index 72 on Person.occupation on 0 elements
+Checking index page addresses on B-tree Index 72 on Person.occupation on 5 elements
+Checking index pages on B-tree Index 72 on Person.occupation on 5 elements
+Checking index Cluster Index 73 on Person.relationship on 0 elements
+Checking index page addresses on Cluster Index 73 on Person.relationship on 1 elements
+Checking clusters on Cluster Index 73 on Person.relationship on 3 elements
+Checking list of deleted clusters on Cluster Index 73 on Person.relationship on 3 elements
+Checking index pages on Cluster Index 73 on Person.relationship on 1 elements
+Checking index Cluster Index 74 on Person.gender on 0 elements
+Checking index page addresses on Cluster Index 74 on Person.gender on 1 elements
+Checking clusters on Cluster Index 74 on Person.gender on 2 elements
+Checking list of deleted clusters on Cluster Index 74 on Person.gender on 2 elements
+Checking index pages on Cluster Index 74 on Person.gender on 1 elements
+Checking index Cluster Index 75 on Person.race on 0 elements
+Checking index page addresses on Cluster Index 75 on Person.race on 1 elements
+Checking clusters on Cluster Index 75 on Person.race on 3 elements
+Checking list of deleted clusters on Cluster Index 75 on Person.race on 3 elements
+Checking index pages on Cluster Index 75 on Person.race on 1 elements
+Checking index B-tree Index 76 on Person.birthdate on 0 elements
+Checking index page addresses on B-tree Index 76 on Person.birthdate on 3 elements
+Checking index pages on B-tree Index 76 on Person.birthdate on 3 elements
+Checking index Cluster Index 77 on Person.livesWith on 0 elements
+Checking index page addresses on Cluster Index 77 on Person.livesWith on 1 elements
+Checking clusters on Cluster Index 77 on Person.livesWith on 3 elements
+Checking list of deleted clusters on Cluster Index 77 on Person.livesWith on 3 elements
+Checking index pages on Cluster Index 77 on Person.livesWith on 1 elements
+Checking index Cluster Index 78 on Person.nextGradeLevel on 0 elements
+Checking index page addresses on Cluster Index 78 on Person.nextGradeLevel on 0 elements
+Checking clusters on Cluster Index 78 on Person.nextGradeLevel on 0 elements
+Checking list of deleted clusters on Cluster Index 78 on Person.nextGradeLevel on 0 elements
+Checking index pages on Cluster Index 78 on Person.nextGradeLevel on 0 elements
+Checking index Cluster Index 79 on Person.isApplying on 0 elements
+Checking index page addresses on Cluster Index 79 on Person.isApplying on 0 elements
+Checking clusters on Cluster Index 79 on Person.isApplying on 0 elements
+Checking list of deleted clusters on Cluster Index 79 on Person.isApplying on 0 elements
+Checking index pages on Cluster Index 79 on Person.isApplying on 0 elements
+Checking index Cluster Index 80 on Person.enrolledAt on 0 elements
+Checking index page addresses on Cluster Index 80 on Person.enrolledAt on 0 elements
+Checking clusters on Cluster Index 80 on Person.enrolledAt on 0 elements
+Checking list of deleted clusters on Cluster Index 80 on Person.enrolledAt on 0 elements
+Checking index pages on Cluster Index 80 on Person.enrolledAt on 0 elements
+Checking index B-tree Index 81 on School.ID on 0 elements
+Checking index page addresses on B-tree Index 81 on School.ID on 7 elements
+Checking index pages on B-tree Index 81 on School.ID on 7 elements
+Checking index B-tree Index 82 on School.name on 0 elements
+Checking index page addresses on B-tree Index 82 on School.name on 12 elements
+Checking index pages on B-tree Index 82 on School.name on 12 elements
+Checking index Cluster Index 83 on School.category on 0 elements
+Checking index page addresses on Cluster Index 83 on School.category on 1 elements
+Checking clusters on Cluster Index 83 on School.category on 3 elements
+Checking list of deleted clusters on Cluster Index 83 on School.category on 3 elements
+Checking index pages on Cluster Index 83 on School.category on 1 elements
+Checking index B-tree Index 84 on School.url on 0 elements
+Checking index page addresses on B-tree Index 84 on School.url on 12 elements
+Checking index pages on B-tree Index 84 on School.url on 12 elements
+Checking index B-tree Index 85 on School.principal on 0 elements
+Checking index page addresses on B-tree Index 85 on School.principal on 12 elements
+Checking index pages on B-tree Index 85 on School.principal on 12 elements
+Checking index Cluster Index 86 on School.startingGrade on 0 elements
+Checking index page addresses on Cluster Index 86 on School.startingGrade on 1 elements
+Checking clusters on Cluster Index 86 on School.startingGrade on 3 elements
+Checking list of deleted clusters on Cluster Index 86 on School.startingGrade on 3 elements
+Checking index pages on Cluster Index 86 on School.startingGrade on 1 elements
+Checking index Cluster Index 87 on School.endingGrade on 0 elements
+Checking index page addresses on Cluster Index 87 on School.endingGrade on 1 elements
+Checking clusters on Cluster Index 87 on School.endingGrade on 3 elements
+Checking list of deleted clusters on Cluster Index 87 on School.endingGrade on 3 elements
+Checking index pages on Cluster Index 87 on School.endingGrade on 1 elements
+Checking index B-tree Index 88 on School.enrollment on 0 elements
+Checking index page addresses on B-tree Index 88 on School.enrollment on 7 elements
+Checking index pages on B-tree Index 88 on School.enrollment on 7 elements
+Checking index B-tree Index 89 on School.rating on 0 elements
+Checking index page addresses on B-tree Index 89 on School.rating on 7 elements
+Checking index pages on B-tree Index 89 on School.rating on 7 elements
+Checking index B-tree Index 90 on School.attendanceRate on 0 elements
+Checking index page addresses on B-tree Index 90 on School.attendanceRate on 7 elements
+Checking index pages on B-tree Index 90 on School.attendanceRate on 7 elements
+Checking index B-tree Index 91 on School.graduationRate on 0 elements
+Checking index page addresses on B-tree Index 91 on School.graduationRate on 7 elements
+Checking index pages on B-tree Index 91 on School.graduationRate on 7 elements
+Checking index B-tree Index 92 on School.mainStreet1 on 0 elements
+Checking index page addresses on B-tree Index 92 on School.mainStreet1 on 12 elements
+Checking index pages on B-tree Index 92 on School.mainStreet1 on 12 elements
+Checking index B-tree Index 93 on School.mainStreet2 on 0 elements
+Checking index page addresses on B-tree Index 93 on School.mainStreet2 on 0 elements
+Checking index pages on B-tree Index 93 on School.mainStreet2 on 0 elements
+Checking index Cluster Index 94 on School.mainCity on 0 elements
+Checking index page addresses on Cluster Index 94 on School.mainCity on 12 elements
+Checking clusters on Cluster Index 94 on School.mainCity on 0 elements
+Checking list of deleted clusters on Cluster Index 94 on School.mainCity on 0 elements
+Checking index pages on Cluster Index 94 on School.mainCity on 12 elements
+Checking index Cluster Index 95 on School.mainState on 0 elements
+Checking index page addresses on Cluster Index 95 on School.mainState on 1 elements
+Checking clusters on Cluster Index 95 on School.mainState on 61 elements
+Checking list of deleted clusters on Cluster Index 95 on School.mainState on 61 elements
+Checking index pages on Cluster Index 95 on School.mainState on 1 elements
+Checking index B-tree Index 96 on School.mainZipCode on 0 elements
+Checking index page addresses on B-tree Index 96 on School.mainZipCode on 12 elements
+Checking index pages on B-tree Index 96 on School.mainZipCode on 12 elements
+Checking index B-tree Index 97 on School.mainUSPSLine1 on 0 elements
+Checking index page addresses on B-tree Index 97 on School.mainUSPSLine1 on 0 elements
+Checking index pages on B-tree Index 97 on School.mainUSPSLine1 on 0 elements
+Checking index B-tree Index 98 on School.mainUSPSLine2 on 0 elements
+Checking index page addresses on B-tree Index 98 on School.mainUSPSLine2 on 0 elements
+Checking index pages on B-tree Index 98 on School.mainUSPSLine2 on 0 elements
+Checking index B-tree Index 99 on School.mainUSPSDeliveryPoint on 0 elements
+Checking index page addresses on B-tree Index 99 on School.mainUSPSDeliveryPoint on 0 elements
+Checking index pages on B-tree Index 99 on School.mainUSPSDeliveryPoint on 0 elements
+Checking index B-tree Index 100 on School.mainMapCoords on 0 elements
+Checking index page addresses on B-tree Index 100 on School.mainMapCoords on 0 elements
+Checking index pages on B-tree Index 100 on School.mainMapCoords on 0 elements
+Checking index B-tree Index 101 on School.primaryPhone on 0 elements
+Checking index page addresses on B-tree Index 101 on School.primaryPhone on 12 elements
+Checking index pages on B-tree Index 101 on School.primaryPhone on 12 elements
+Checking index B-tree Index 102 on School.primaryEmailAddress on 0 elements
+Checking index page addresses on B-tree Index 102 on School.primaryEmailAddress on 12 elements
+Checking index pages on B-tree Index 102 on School.primaryEmailAddress on 12 elements
+Checking index B-tree Index 103 on School.secondaryPhone on 0 elements
+Checking index page addresses on B-tree Index 103 on School.secondaryPhone on 12 elements
+Checking index pages on B-tree Index 103 on School.secondaryPhone on 12 elements
+Checking index B-tree Index 104 on School.secondaryEmailAddress on 0 elements
+Checking index page addresses on B-tree Index 104 on School.secondaryEmailAddress on 12 elements
+Checking index pages on B-tree Index 104 on School.secondaryEmailAddress on 12 elements
+Checking index Cluster Index 105 on School.district on 0 elements
+Checking index page addresses on Cluster Index 105 on School.district on 1 elements
+Checking clusters on Cluster Index 105 on School.district on 20 elements
+Checking list of deleted clusters on Cluster Index 105 on School.district on 20 elements
+Checking index pages on Cluster Index 105 on School.district on 1 elements
+Checking index B-tree Index 106 on SchoolApplication.ID on 0 elements
+Checking index page addresses on B-tree Index 106 on SchoolApplication.ID on 0 elements
+Checking index pages on B-tree Index 106 on SchoolApplication.ID on 0 elements
+Checking index Cluster Index 107 on SchoolApplication.applicant on 0 elements
+Checking index page addresses on Cluster Index 107 on SchoolApplication.applicant on 0 elements
+Checking clusters on Cluster Index 107 on SchoolApplication.applicant on 0 elements
+Checking list of deleted clusters on Cluster Index 107 on SchoolApplication.applicant on 0 elements
+Checking index pages on Cluster Index 107 on SchoolApplication.applicant on 0 elements
+Checking index Cluster Index 108 on SchoolApplication.submittedTo on 0 elements
+Checking index page addresses on Cluster Index 108 on SchoolApplication.submittedTo on 0 elements
+Checking clusters on Cluster Index 108 on SchoolApplication.submittedTo on 0 elements
+Checking list of deleted clusters on Cluster Index 108 on SchoolApplication.submittedTo on 0 elements
+Checking index pages on Cluster Index 108 on SchoolApplication.submittedTo on 0 elements
+Checking index B-tree Index 109 on SchoolApplication.url on 0 elements
+Checking index page addresses on B-tree Index 109 on SchoolApplication.url on 0 elements
+Checking index pages on B-tree Index 109 on SchoolApplication.url on 0 elements
+Checking index B-tree Index 110 on SchoolApplication.preparedOn on 0 elements
+Checking index page addresses on B-tree Index 110 on SchoolApplication.preparedOn on 0 elements
+Checking index pages on B-tree Index 110 on SchoolApplication.preparedOn on 0 elements
+Checking index B-tree Index 111 on SchoolApplication.submittedOn on 0 elements
+Checking index page addresses on B-tree Index 111 on SchoolApplication.submittedOn on 0 elements
+Checking index pages on B-tree Index 111 on SchoolApplication.submittedOn on 0 elements
+Checking index Cluster Index 112 on SchoolApplication.forSchoolYear on 0 elements
+Checking index page addresses on Cluster Index 112 on SchoolApplication.forSchoolYear on 0 elements
+Checking clusters on Cluster Index 112 on SchoolApplication.forSchoolYear on 0 elements
+Checking list of deleted clusters on Cluster Index 112 on SchoolApplication.forSchoolYear on 0 elements
+Checking index pages on Cluster Index 112 on SchoolApplication.forSchoolYear on 0 elements
+Checking index B-tree Index 113 on SchoolOption.ID on 0 elements
+Checking index page addresses on B-tree Index 113 on SchoolOption.ID on 0 elements
+Checking index pages on B-tree Index 113 on SchoolOption.ID on 0 elements
+Checking index Cluster Index 114 on SchoolOption.family on 0 elements
+Checking index page addresses on Cluster Index 114 on SchoolOption.family on 0 elements
+Checking clusters on Cluster Index 114 on SchoolOption.family on 0 elements
+Checking list of deleted clusters on Cluster Index 114 on SchoolOption.family on 0 elements
+Checking index pages on Cluster Index 114 on SchoolOption.family on 0 elements
+Checking index Cluster Index 115 on SchoolOption.school on 0 elements
+Checking index page addresses on Cluster Index 115 on SchoolOption.school on 0 elements
+Checking clusters on Cluster Index 115 on SchoolOption.school on 0 elements
+Checking list of deleted clusters on Cluster Index 115 on SchoolOption.school on 0 elements
+Checking index pages on Cluster Index 115 on SchoolOption.school on 0 elements
+Checking index B-tree Index 116 on SchoolOption.distance on 0 elements
+Checking index page addresses on B-tree Index 116 on SchoolOption.distance on 0 elements
+Checking index pages on B-tree Index 116 on SchoolOption.distance on 0 elements
+Checking index Cluster Index 117 on SchoolOption.selected on 0 elements
+Checking index page addresses on Cluster Index 117 on SchoolOption.selected on 0 elements
+Checking clusters on Cluster Index 117 on SchoolOption.selected on 0 elements
+Checking list of deleted clusters on Cluster Index 117 on SchoolOption.selected on 0 elements
+Checking index pages on Cluster Index 117 on SchoolOption.selected on 0 elements
+Scanning data on 65 elements
