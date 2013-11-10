@@ -1,1 +1,1 @@
-﻿include('SSJS/GenerateMockData.js');L3.generateMockData(true);ds.District.all().toArray('name, category, superintendent, numberOfSchools, totalEnrollment');
+﻿include('SSJS/GenerateMockData.js');L3.generateMockData(true);ds.District.all().toArray('ID, name, category, superintendent, numberOfSchools, totalEnrollment');
