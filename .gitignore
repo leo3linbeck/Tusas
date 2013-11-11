@@ -24,4 +24,6 @@ breakpoints.json
 sessionID.json
 # Wakanda backup
 *.waBackup
-
+# PDF files
+*/PDF
+*/APIKeys/server.url
