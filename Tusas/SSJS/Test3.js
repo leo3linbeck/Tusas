@@ -1,0 +1,1 @@
+﻿exports = require('pdfDump.js');var dataStoreArray = [];dataStoreArray.push(ds.District.all());dataStoreArray.push(ds.Family.query('name < :1', 'E'));dataStoreArray.push(ds.Person.query('lastName < :1', 'E'));dataStoreArray.push(ds.School.query('district.category == :1', 'Charter District'));exports.generatePDFFileAndURL(dataStoreArray);
